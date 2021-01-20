@@ -1,10 +1,10 @@
 # Hello World 👋
 
-- 🔭 Atualmente trabalho como estagiário na Brisanet Telecomunicações;
-- 🌱Estou aprendendo JS, HTML5 e CSS3;
-- 👯 Procuro colaborar para dar a melhor forma possível, mesmo sendo apenas um iniciante;
-- 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento de ponta;
-- ⚡ Soft Skills: sou apaixonado por guitarra, redes e música.
+- 🔭 I’m currently working as an intern at Brisanet Telecomunicações;
+- 🌱 I’m learning JS;
+- 👯 I’m looking to collaborate gives the best possible shape even if i'm just a beginner;
+- 🤔 I’m looking for help with studies of fron-end development frameworks;
+- ⚡ Soft Skills: i am passionate about guitar, computer networks and music.
 
 ### Where to find me:
 
