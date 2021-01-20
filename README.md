@@ -10,3 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-000/)](https://www.linkedin.com/in/kennedy-000/)
 
+[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-purple?style=flat-square&logo=rocketseatd&logoColor=white&link=https://app.rocketseat.com.br/me/)](https://app.rocketseat.com.br/me/)
+
+
+
