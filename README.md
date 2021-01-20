@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho como estagiário na Brisanet Telecomunicações;
 - 🌱 Estudando JavaScript;
 - 👯 Procuro colaborar aplicando práticas de desenvolvimento em todos os âmbitos da comunidade;
-- 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento de ponta;
+- 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento Front-End;
 - ⚡ Sou apaixonado por violão, redes de computadores e música.
 
 ## Onde me Encontrar :mailbox_with_mail:
