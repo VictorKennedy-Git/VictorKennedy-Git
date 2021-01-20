@@ -3,7 +3,7 @@
 - :computer: Técnico em Rede de Computadores;
 - 🔭 Atualmente trabalho como estagiário na Brisanet Telecomunicações;
 - 🌱 Estudando JavaScript;
-- 👯 Procuro colaborar para dar a melhor forma possível, mesmo sendo apenas um iniciante;
+- 👯 Procuro colaborar para com  a soma do meu conhecimento, lugar que trabalho e com a comunidade;
 - 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento de ponta;
 - ⚡ Sou apaixonado por violão, redes de computadores e música.
 
