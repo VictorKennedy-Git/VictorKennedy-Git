@@ -1,6 +1,6 @@
 # Hello World :earth_americas:
 
-- :computer: Técnico em Rede de Computadores;
+- :computer: Técnico em Redes de Computadores;
 - 🔭 Atualmente trabalho como estagiário na Brisanet Telecomunicações;
 - 🌱 Estudando JavaScript;
 - 👯 Procuro colaborar aplicando práticas de desenvolvimento em todos os âmbitos da comunidade;
