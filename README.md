@@ -10,7 +10,7 @@
 ## Onde me Encontrar :mailbox_with_mail:
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-000/)](https://www.linkedin.com/in/kennedy-000/)
-    [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=victorsilvasm92@gmail.com)](victorsilvasm92@gmail.com)
+    [![GmailBadge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/victorsilvasm92@gmail.com/)](https://mail.google.com/mail/victorsilvasm92@gmail.com/)
 
 
 
