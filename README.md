@@ -1,8 +1,8 @@
 # Hello World :earth_americas:
 
 - :computer: Técnico em Redes de Computadores;
-- 🔭 Atualmente trabalho como estagiário na Brisanet Telecomunicações;
-- 🌱 Estudando JavaScript e VueJS;
+- 🔭 Atualmente trabalho como líder de suporte técnico na Brisanet Telecomunicações;
+- 🌱 Recomeçando;
 - 👯 Procuro colaborar aplicando práticas de desenvolvimento em todos os âmbitos da comunidade;
 - 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento Front-End;
 - ⚡ Sou apaixonado por violão, redes de computadores e música.
