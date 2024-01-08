@@ -1,7 +1,7 @@
 # Hello World :earth_americas:
 
 - :computer: Técnico em Redes de Computadores;
-- 🔭 Atualmente trabalho como líder de suporte técnico na Brisanet Telecomunicações;
+- 🔭 Atualmente trabalho como Analista de Monitormaneto de Redes na Brisanet Telecomunicações;
 - 🌱 Recomeçando;
 - 👯 Procuro colaborar aplicando práticas de desenvolvimento em todos os âmbitos da comunidade;
 - 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento Front-End;
