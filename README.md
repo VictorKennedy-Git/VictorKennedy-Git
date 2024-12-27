@@ -1,10 +1,11 @@
 # Hello World :earth_americas:
 
 - :computer: Técnico em Redes de Computadores;
+- :mortar_board: Graduando em Redes de Computadores;
 - 🔭 Atualmente trabalho como Analista de Monitormaneto de Redes na Brisanet Telecomunicações;
 - 🌱 Recomeçando;
 - 👯 Procuro colaborar aplicando práticas de desenvolvimento em todos os âmbitos da comunidade;
-- 🤔 Estou procurando ajuda com estudos de frameworks de desenvolvimento Front-End;
+- 🤔 Estou procurando ajuda com estudos de automação de testes de rede;
 
 ## Ferramentas :wrench:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
